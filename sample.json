@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Jon Snow",
+        "place": "Winterfell",
+        "nickname": "King in the North"
+    },
+    {
+        "id": 2,
+        "name": "Daenerys Targaryen",
+        "place": "Dragonstone",
+        "nickname": "Mother of Dragons"
+    },
+    {
+        "id": 3,
+        "name": "Tyrion Lannister",
+        "place": "King's Landing",
+        "nickname": " Imp"
+    },
+    {
+        "id": 4,
+        "name": "Arya Stark",
+        "place": "Winterfell",
+        "nickname": "No One"
+    },
+    {
+        "id": 5,
+        "name": "Sansa Stark",
+        "place": "Winterfell",
+        "nickname": "The Stark of Winterfell"
+    }
+]
